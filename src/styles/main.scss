@@ -1,7 +1,10 @@
 @use 'variaveis';
+@use 'font';
 @use 'mixins';
 @use 'hero';
-@use 'font';
+@use 'shows';
+@use 'plans';
+
 
 * {
     margin: 0;
@@ -87,7 +90,7 @@ body{
     cursor: pointer;
 
     &:hover {
-        background-color: lighten(variaveis.$corDeFundoBotaoPrimario, 3%);
+        background-color: mix(white, variaveis.$corDeFundoBotaoPrimario, 3%);
     }
 
     &--secondary {
@@ -95,7 +98,7 @@ body{
         border-color: variaveis.$corDeFundoBotaoSecundario;
 
         &:hover {
-            background-color: lighten(variaveis.$corDeFundoBotaoPrimario, 3%);
+            background-color:  mix(white, variaveis.$corDeFundoBotaoSecundario, 3%);
         }
     }
 
