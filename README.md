@@ -22,7 +22,7 @@ Este projeto é um clone feito em aula da interface inicial da plataforma de str
 
 ---
 
-## 🌐 Demonstração - [Link para o Projeto Online](https://clone-disney-plus-eosin.vercel.app/)
+## 🌐 Demonstração - [Link para o Projeto Online](https://clone-disney-plus-git-main-l3l3z1nh4s-projects.vercel.app/)
 
 ![Preview do Clone Disney+](/assets/clone_disney_plus_print.png)
 *A imagem acima mostra a interface do clone do Disney+ em desktop.*
